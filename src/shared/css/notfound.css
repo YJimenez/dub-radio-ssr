@@ -1,0 +1,12 @@
+.not-found{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+}
+.not-found img{
+	height: 640px;
+	width: 900px;
+}
